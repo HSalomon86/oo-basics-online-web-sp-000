@@ -10,7 +10,13 @@ class Shoe
 
   def cobble
     puts "Your shoe is as good as new!"
+    shoe.condition = "new"
   end
+
+def condition(arg)
+  puts arg
+end
+
 
   # def brand=(brand="Nike")
   #   @brand = brand
