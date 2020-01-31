@@ -12,8 +12,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-def condition
-end
+
 
   # def brand=(brand="Nike")
   #   @brand = brand
