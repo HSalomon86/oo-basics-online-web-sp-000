@@ -7,6 +7,10 @@ class Shoe
     @shoe = shoe
   end
 
+  def cobble
+
+  end
+
   # def brand=(brand="Nike")
   #   @brand = brand
   # end
